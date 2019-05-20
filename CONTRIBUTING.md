@@ -1,4 +1,4 @@
-﻿# Contributing
+# Contributing
 
 I'm really glad you're reading this, because as you no doubt realize too, the "awesome sauce" which is the key ingredient to a truly `awesome-list` is: LOTS OF INPUT. So long as what you propose is rooted in a critically examined, strongly held opinion about some aspect of IRC, you can be sure that we will evaluate it as fairly as we can and respect the person behind it, even if we ultimately don't agree about it belonging here.
 
@@ -28,4 +28,4 @@ Please make sure all of your commits are atomic (one change to the list per comm
 
 ## Join the community
 
-If you haven't already, come find us on, you guessed it, IRC! ([#awesome-irc](irc://chat.freenode.net/awesome-irc) on Freenode).
+If you haven't already, come find us on, you guessed it, IRC! ([#awesome-irc](ircs://chat.freenode.net/awesome-irc) on Freenode).
