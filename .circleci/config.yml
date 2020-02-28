@@ -1,0 +1,35 @@
+---
+commands:
+  awesome-test:
+    description: "Automated test for Awesome list standards compliance"
+    steps:
+      - run:
+          command: "gem install awesome_bot"
+          name: "Install awesome_bot Ruby gem"
+      - run:
+          command: "awesome_bot --allow-dupe --allow-redirect -f README.md -w
+                    irc.lc,img.shields.io,demo.thelounge.chat,awesome.re,quassel-irc.org,demo.convos.by"
+          name: "Run awesome_bot test on README.md"
+      - store_artifacts:
+          destination: "markdown-table"
+          path: "ab-results-README.md-markdown-table.json"
+      - store_artifacts:
+          destination: "test-results"
+          path: "ab-results-README.md.json"
+executors:
+  ruby:
+    docker:
+      - image: "circleci/ruby:latest-node-browsers"
+jobs:
+  test:
+    executor: "ruby"
+    steps:
+      - checkout
+      - awesome-test
+version: 2.1
+workflows:
+  awesome:
+    jobs:
+      - test
+  version: 2
+...

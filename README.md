@@ -326,7 +326,7 @@ This list also uses tags to help when searching the contents:
 ...and
 [contributors](https://github.com/davisonio/awesome-irc/graphs/contributors).
 
-**[Contributions are welcome!](https://github.com/davisonio/awesome-irc/blob/master/contributing.md)**
+**[Contributions are welcome!](CONTRIBUTING.md)**
 
 ## License
 

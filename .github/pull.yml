@@ -1,0 +1,12 @@
+---
+label: ":arrow_heading_down: pull"
+rules:
+  - assignees:
+      - RogueScholar
+    base: "master"
+    mergeMethod: "rebase"
+    reviewers:
+      - RogueScholar
+    upstream: "davisonio:master"
+version: "1"
+...
