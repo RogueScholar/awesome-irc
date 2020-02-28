@@ -34,57 +34,68 @@ multi-user text based communication through channels.
 
 _You use these to connect to IRC._
 
-- [Komanda](https://komanda.io) - Designed for people who write code (beta).
+- [![Komanda-icon-24px](https://user-images.githubusercontent.com/15098724/56874874-bf5ba580-69f1-11e9-9d3e-5265c43bcc7d.png) Komanda](https://komanda.io) -
+  Designed for people who write code (beta).
   ([source](https://github.com/mephux/komanda)) `Linux`
-- [Textual](https://www.codeux.com/textual/) - Very customizable, ZNC
-  integration, iCloud sync (\$4.99).
+- [![Textual-icon-24px](https://user-images.githubusercontent.com/15098724/56874954-680a0500-69f2-11e9-87ec-d4015ce54af5.png) Textual](https://www.codeux.com/textual/) -
+  Very customizable, ZNC integration, iCloud sync (\$4.99).
   ([source](https://github.com/Codeux-Software/Textual)) `macOS`
-- [LimeChat](http://limechat.net/mac/) - One window for multiple servers,
-  keyboard shortcuts, fast & stable.
+- [![Limechat-icon-24px](https://user-images.githubusercontent.com/15098724/56875043-04cca280-69f3-11e9-8e1f-285e54784fe4.png) LimeChat](http://limechat.net/mac/) -
+  One window for multiple servers, keyboard shortcuts, fast & stable.
   ([source](https://github.com/psychs/limechat)) `macOS` `iOS`
-- [HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell
-  check & multiple languages. ([source](https://github.com/hexchat/hexchat))
-  `Windows` `macOS` `Linux`
-- [Kiwi IRC](https://kiwiirc.com) - Powerful modern IRC messenger for the web.
+- [![Hexchat-icon-24px](https://user-images.githubusercontent.com/15098724/56874706-b28a8200-69f0-11e9-9ca7-27c8779134e0.png) HexChat](https://hexchat.github.io) -
+  Based on XChat, easy to use, spell check & multiple languages.
+  ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
+- [![KiwiIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56875143-a7852100-69f3-11e9-8b33-2035c156c016.png) Kiwi IRC](https://kiwiirc.com) -
+  Powerful modern IRC messenger for the web.
   ([source](https://github.com/kiwiirc/kiwiirc),
   [demo](https://kiwiirc.com/nextclient/)) `Web`
-- [CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to
-  connect directly to IRC servers without needing a proxy.
-  ([source](https://github.com/flackr/circ)) `Chrome`
-- [Quassel](https://quassel-irc.org) - Distributed (clients can attach to and
-  detach from a central core that stays permanently online.
-  ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
-- [Yaaic](https://www.yaaic.org) - Multi-server/channel support, SASL support,
-  Smooth channel scrolling / swiping. ([source](https://github.com/pocmo/Yaaic))
-  `Android`
-- [Koko](https://github.com/KokoIRC/koko) - Minimalistic design, VIM-like
-  shortcuts and built on electron. `Windows` `macOS`
+- [![CIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56875201-1498b680-69f4-11e9-91ff-ae3b674c82be.png) CIRC](https://flackr.github.io/circ/) -
+  Uses the chrome.sockets APIs to connect directly to IRC servers without
+  needing a proxy. ([source](https://github.com/flackr/circ)) `Chrome`
+- [![Quassel-icon-24px](https://user-images.githubusercontent.com/15098724/56875264-84a73c80-69f4-11e9-807c-75db09db0ec5.png) Quassel](https://quassel-irc.org) -
+  Distributed (clients can attach to and detach from a central core that stays
+  permanently online. ([source](https://github.com/quassel/quassel)) `Linux`
+  `macOS` `Windows`
+- [![YAAIC-icon-24px](https://user-images.githubusercontent.com/15098724/56875320-f8e1e000-69f4-11e9-9665-de50e95f4d91.png) Yaaic](https://www.yaaic.org) -
+  Multi-server/channel support, SASL support, Smooth channel scrolling /
+  swiping. ([source](https://github.com/pocmo/Yaaic)) `Android`
+- [![KokoIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56875424-c389c200-69f5-11e9-8464-5132a289aefd.png) Koko](https://github.com/KokoIRC/koko) -
+  Minimalistic design, VIM-like shortcuts and built on electron. `Windows`
+  `macOS`
 - [relay.js](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC
   less intimidating and easier to use. ([demo](http://demo.relayjs.com)) `Web`
-- [Circe](https://github.com/jorgenschaefer/circe) - For use in Emacs, sane
-  defaults. `Emacs`
-- [Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+.
+- [![Circe-icon-24px](https://user-images.githubusercontent.com/15098724/56875558-a3a6ce00-69f6-11e9-92da-2e4d8c7b4a53.png) Circe](https://github.com/jorgenschaefer/circe) -
+  For use in Emacs, sane defaults. `Emacs`
+- [![Smuxi-icon-24px](https://user-images.githubusercontent.com/15098724/56875672-2f205f00-69f7-11e9-8cac-5721602234bb.png) Smuxi](https://smuxi.im) -
+  User-friendly, based on GNOME / GTK+.
   ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
-- [KvIRC](http://www.kvirc.net) - Free, portable, based on Qt GUI toolkit.
+- [![KvIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56874636-1d878900-69f0-11e9-856e-719c4c822e25.png) KvIRC](http://www.kvirc.net) -
+  Free, portable, based on Qt GUI toolkit.
   ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
-- [Konversation](https://konversation.kde.org) - User-friendly client built on
-  the KDE Platform. ([source](https://github.com/KDE/konversation)) `Linux`
-- [sic](https://tools.suckless.org/sic/) - **S**imple **I**RC **c**lient - a
-  terminal client in less than 250 lines of C. `Linux`
-- [Colloquy](http://colloquy.info) - AppleScript-enabled IRC client. `macOS`
-- [irssi](https://irssi.org) - Terminal client, multi-protocol friendly for
-  module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
-- [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - Feature-full,
-  actively maintained Android IRC client.
+- [![Konversation-icon-24px](https://user-images.githubusercontent.com/15098724/56876024-609a2a00-69f9-11e9-91dd-196f310776d7.png) Konversation](https://konversation.kde.org) -
+  User-friendly client built on the KDE Platform.
+  ([source](https://github.com/KDE/konversation)) `Linux`
+- [![sic-icon-24px](https://user-images.githubusercontent.com/15098724/56876157-457bea00-69fa-11e9-94f5-11dcd0bfb00c.png) sic](https://tools.suckless.org/sic/) -
+  **S**imple **I**RC **c**lient - a terminal client in less than 250 lines of C.
+  `Linux`
+- [![Colloquy-icon-24px](https://user-images.githubusercontent.com/15098724/56876204-a3103680-69fa-11e9-8169-00e0450722de.png) Colloquy](http://colloquy.info) -
+  AppleScript-enabled IRC client. `macOS`
+- [![irssi-icon-24px](https://user-images.githubusercontent.com/15098724/56876266-0c904500-69fb-11e9-85a9-00796373cf88.png) irssi](https://irssi.org) -
+  Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux`
+  `macOS` `Cygwin` `BSD`
+- [![RevolutionIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56876444-4f065180-69fc-11e9-8200-b244b6a86e94.png) Revolution IRC](https://github.com/MCMrARM/revolution-irc) -
+  Feature-full, actively maintained Android IRC client.
   ([source](https://github.com/MCMrARM/revolution-irc)) `Android`
-- [AdiIRC](https://adiirc.com) - Never has a client offered such granular
-  settings for every aspect of the IRC experience.
-  ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features),
+- [![AdiIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56632956-0e2fc680-6611-11e9-949e-c79c21f465a0.png) AdiIRC](https://adiirc.com) -
+  Never has a client offered such granular settings for every aspect of the IRC
+  experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features),
   [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots))
   `Windows` `WINE`
-- [IRC for Android™](https://www.countercultured.net/android/) Android/Chrome OS
-  client for power users, with ZNC built-ins, notification logic, reliable DCC,
-  keybinds for hardware keyboards, etc. `Android` `ChromeOS`
+- [![IRCforAndroid-icon-24px](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) IRC for Android™](https://www.countercultured.net/android/)
+  Android/Chrome OS client for power users, with ZNC built-ins, notification
+  logic, reliable DCC, keybinds for hardware keyboards, etc. `Android`
+  `ChromeOS`
 
 _More? Clients that include bouncers are found [below](#bouncers)._
 
@@ -94,30 +105,33 @@ _Useful for disconnecting and reconnecting without losing the chat session._
 
 #### Hosted
 
-- [IRCCloud](https://www.irccloud.com) - Group chat for teams, friends, and
-  communities. stay connected, chat from anywhere, and never miss a message
-  (+client) (£0-£3.50/month).
+- [![IRCCloud-icon-24px](https://user-images.githubusercontent.com/15098724/56879253-ba581f80-6a0c-11e9-8f6b-8461c10ed149.png) IRCCloud](https://www.irccloud.com) -
+  Group chat for teams, friends, and communities. stay connected, chat from
+  anywhere, and never miss a message (+client) (£0-£3.50/month).
   - [iOS App](https://github.com/irccloud/ios) - Official. `Objective-C`
   - [Android App](https://github.com/irccloud/android) - Official. `Java`
   - [Nimbus](https://github.com/jnordberg/irccloudapp) - Standalone client.
     `macOS` `Objective-C`
-- [Grove](https://grove.io) - Hosted IRC and so much more (+client)
-  ($10-$125/month).
+- [![Grove-icon-24px](https://user-images.githubusercontent.com/15098724/56879376-541fcc80-6a0d-11e9-882a-980aa6f285bf.png) Grove](https://grove.io) -
+  Hosted IRC and so much more (+client) ($10-$125/month).
 
 #### Self-hosted
 
-- [Convos](https://convos.by) - Always online web IRC client.
-  ([source](https://github.com/Nordaaker/convos),
+- [![Convos-icon-24px](https://user-images.githubusercontent.com/15098724/56879497-d8724f80-6a0d-11e9-844d-7a5380b4524b.png) Convos](https://convos.by) -
+  Always online web IRC client. ([source](https://github.com/Nordaaker/convos),
   [demo](https://demo.convos.by)) `Perl` `JavaScript` `Web`
-- [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins.
-  ([source](https://github.com/znc/znc))
-- [BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and
-  secure Open Source IRC proxying with backlogging.
-  ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
-- [TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for
-  multiple users. ([source](https://github.com/thelounge/thelounge),
+- [![ZNC-icon-24px](https://user-images.githubusercontent.com/15098724/56879721-d8268400-6a0e-11e9-8b74-c2c748d15c4a.png) ZNC](https://wiki.znc.in/ZNC) -
+  Most popular. many different plugins. ([source](https://github.com/znc/znc))
+- [![BIP-icon-24px](https://user-images.githubusercontent.com/15098724/56899123-89491080-6a47-11e9-8513-4c8d09be32d9.png) BIP IRC Proxy](https://bip.milkypond.org) -
+  Always online, lightweight and secure Open Source IRC proxying with
+  backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository))
+  `C`
+- [![TheLounge-icon-24px](https://user-images.githubusercontent.com/15098724/56899491-6b2fe000-6a48-11e9-9f01-1ed2cfb86b09.png) TheLounge](https://thelounge.chat) -
+  Responsive, self-hosted & support for multiple users.
+  ([source](https://github.com/thelounge/thelounge),
   [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
-- [WeeChat](https://weechat.org) - A fast, light and extensible chat client.
+- [![weechat-icon-24px](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) WeeChat](https://weechat.org) -
+  A fast, light and extensible chat client.
   ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
 
 ### Daemons
@@ -155,6 +169,8 @@ _IRC users which provide services for humans, e.g. integrations or information._
 
 - [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully
   documented. ([source](https://github.com/sopel-irc/sopel)) `Python`
+- [phenny](http://inamidst.com/phenny/) - Simple, module creation guide.
+  ([source](https://github.com/sbp/phenny)) `Python`
 - [IRCcat](https://github.com/RJ/irccat) - Simplifies messaging from shell
   scripts. `Java`
 - [Limnoria](https://github.com/ProgVal/Limnoria) - Robust, user friendly,
@@ -163,6 +179,7 @@ _IRC users which provide services for humans, e.g. integrations or information._
   the chat and presses the corresponding key. `Python`
 - [Skybot](https://github.com/rmmh/skybot) - Main goals are simplicity and
   power. `Python`
+- [Jenni](https://github.com/myano/jenni) - `Python`
 - [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - Responds to
   configured trigger phrases with quotes from notable women.
   ([source](https://github.com/jessamynsmith/talkbackbot)) `Python`
@@ -197,7 +214,7 @@ _Helpful to write bots or integrate IRC with applications._
 - [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library
   with a straightforward API (updated fork of
   [PircBot](http://www.jibble.org/pircbot.php)). `Java`
-- [IRC::Client](https://github.com/raku-community-modules/perl6-IRC-Client) -
+- [IRC::Client](https://github.com/perl6-community-modules/perl6-IRC-Client) -
   `Perl6` based extendable IRC client framework.
 
 #### Bridges
@@ -243,7 +260,7 @@ _IRC channels._
 #### Programming
 
 - [#python](https://www.python.org/community/irc/)@freenode - Good place for
-  short python questions. ([rules](https://www.python.org/psf/conduct/))
+  short python questions. ([rules](https://www.python.org/psf/codeofconduct/))
 
 ### Networks
 
@@ -326,7 +343,7 @@ This list also uses tags to help when searching the contents:
 ...and
 [contributors](https://github.com/davisonio/awesome-irc/graphs/contributors).
 
-**[Contributions are welcome!](CONTRIBUTING.md)**
+**[Contributions are welcome!](https://github.com/davisonio/awesome-irc/blob/master/contributing.md)**
 
 ## License
 
