@@ -1,13 +1,11 @@
-# Awesome IRC [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome IRC [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Contributors](https://img.shields.io/github/contributors/davisonio/awesome-irc?style=flat-square&logo=Draugiem.lv&logoWidth=20&logoColor=black&labelColor=349c54&color=5b4851)](https://github.com/davisonio/awesome-irc/graphs/contributors) [![Build Status](https://travis-ci.org/davisonio/awesome-irc.svg?branch=master)](https://travis-ci.org/davisonio/awesome-irc)
 
-> A curated list of awesome
-> [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) resources.
+<div align="center"><h3>A curated list of awesome tools, software & other resources for IRC</h3></div>
 
-A list of tools, software & other resources related to the Internet Relay Chat
-(IRC) protocol.
+----
 
-IRC (Internet Relay Chat) is an open source protocol that can be used for
-multi-user text based communication through channels.
+| :book: [Internet Relay Chat (IRC)](https://en.wikipedia.org/wiki/Internet_Relay_Chat) | an open-source protocol used for multi-user, real-time text-based communication |
+|--------------------------------------------------|:-----------------------------------|
 
 ## Contents
 
@@ -34,68 +32,41 @@ multi-user text based communication through channels.
 
 _You use these to connect to IRC._
 
-- [![Komanda-icon-24px](https://user-images.githubusercontent.com/15098724/56874874-bf5ba580-69f1-11e9-9d3e-5265c43bcc7d.png) Komanda](https://komanda.io) -
-  Designed for people who write code (beta).
-  ([source](https://github.com/mephux/komanda)) `Linux`
-- [![Textual-icon-24px](https://user-images.githubusercontent.com/15098724/56874954-680a0500-69f2-11e9-87ec-d4015ce54af5.png) Textual](https://www.codeux.com/textual/) -
-  Very customizable, ZNC integration, iCloud sync (\$4.99).
-  ([source](https://github.com/Codeux-Software/Textual)) `macOS`
-- [![Limechat-icon-24px](https://user-images.githubusercontent.com/15098724/56875043-04cca280-69f3-11e9-8e1f-285e54784fe4.png) LimeChat](http://limechat.net/mac/) -
-  One window for multiple servers, keyboard shortcuts, fast & stable.
-  ([source](https://github.com/psychs/limechat)) `macOS` `iOS`
-- [![Hexchat-icon-24px](https://user-images.githubusercontent.com/15098724/56874706-b28a8200-69f0-11e9-9ca7-27c8779134e0.png) HexChat](https://hexchat.github.io) -
-  Based on XChat, easy to use, spell check & multiple languages.
-  ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
-- [![KiwiIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56875143-a7852100-69f3-11e9-8b33-2035c156c016.png) Kiwi IRC](https://kiwiirc.com) -
-  Powerful modern IRC messenger for the web.
-  ([source](https://github.com/kiwiirc/kiwiirc),
-  [demo](https://kiwiirc.com/nextclient/)) `Web`
-- [![CIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56875201-1498b680-69f4-11e9-91ff-ae3b674c82be.png) CIRC](https://flackr.github.io/circ/) -
-  Uses the chrome.sockets APIs to connect directly to IRC servers without
-  needing a proxy. ([source](https://github.com/flackr/circ)) `Chrome`
-- [![Quassel-icon-24px](https://user-images.githubusercontent.com/15098724/56875264-84a73c80-69f4-11e9-807c-75db09db0ec5.png) Quassel](https://quassel-irc.org) -
-  Distributed (clients can attach to and detach from a central core that stays
-  permanently online. ([source](https://github.com/quassel/quassel)) `Linux`
-  `macOS` `Windows`
-- [![YAAIC-icon-24px](https://user-images.githubusercontent.com/15098724/56875320-f8e1e000-69f4-11e9-9665-de50e95f4d91.png) Yaaic](https://www.yaaic.org) -
-  Multi-server/channel support, SASL support, Smooth channel scrolling /
-  swiping. ([source](https://github.com/pocmo/Yaaic)) `Android`
-- [![KokoIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56875424-c389c200-69f5-11e9-8464-5132a289aefd.png) Koko](https://github.com/KokoIRC/koko) -
-  Minimalistic design, VIM-like shortcuts and built on electron. `Windows`
-  `macOS`
-- [relay.js](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC
-  less intimidating and easier to use. ([demo](http://demo.relayjs.com)) `Web`
-- [![Circe-icon-24px](https://user-images.githubusercontent.com/15098724/56875558-a3a6ce00-69f6-11e9-92da-2e4d8c7b4a53.png) Circe](https://github.com/jorgenschaefer/circe) -
-  For use in Emacs, sane defaults. `Emacs`
-- [![Smuxi-icon-24px](https://user-images.githubusercontent.com/15098724/56875672-2f205f00-69f7-11e9-8cac-5721602234bb.png) Smuxi](https://smuxi.im) -
-  User-friendly, based on GNOME / GTK+.
-  ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
-- [![KvIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56874636-1d878900-69f0-11e9-856e-719c4c822e25.png) KvIRC](http://www.kvirc.net) -
-  Free, portable, based on Qt GUI toolkit.
-  ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
-- [![Konversation-icon-24px](https://user-images.githubusercontent.com/15098724/56876024-609a2a00-69f9-11e9-91dd-196f310776d7.png) Konversation](https://konversation.kde.org) -
-  User-friendly client built on the KDE Platform.
-  ([source](https://github.com/KDE/konversation)) `Linux`
-- [![sic-icon-24px](https://user-images.githubusercontent.com/15098724/56876157-457bea00-69fa-11e9-94f5-11dcd0bfb00c.png) sic](https://tools.suckless.org/sic/) -
-  **S**imple **I**RC **c**lient - a terminal client in less than 250 lines of C.
-  `Linux`
-- [![Colloquy-icon-24px](https://user-images.githubusercontent.com/15098724/56876204-a3103680-69fa-11e9-8169-00e0450722de.png) Colloquy](http://colloquy.info) -
-  AppleScript-enabled IRC client. `macOS`
-- [![irssi-icon-24px](https://user-images.githubusercontent.com/15098724/56876266-0c904500-69fb-11e9-85a9-00796373cf88.png) irssi](https://irssi.org) -
-  Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux`
-  `macOS` `Cygwin` `BSD`
+#### Desktop
+
+- <a href="https://komanda.io/"><img src="assets/Komanda.png" alt="Komanda logo" valign="middle" width="24" height="24"></a> **[Komanda](https://komanda.io/)** - Designed for people who write code (beta). ([source](https://github.com/mephux/komanda)) <kbd>Linux</kbd>
+- <a href="https://www.codeux.com/textual/"><img src="assets/Textual.png" alt="Textual logo" valign="middle" width="24" height="24"></a> **[Textual](https://www.codeux.com/textual/)** - Very customizable, ZNC integration, iCloud sync (\$4.99). ([source](https://github.com/Codeux-Software/Textual)) <kbd>macOS</kbd>
+- <a href="http://limechat.net/mac/"><img src="assets/Limechat.png" alt="Limechat logo" valign="middle" width="24" height="24"></a> **[LimeChat](http://limechat.net/mac/)** - One window for multiple servers, keyboard shortcuts, fast & stable. ([source](https://github.com/psychs/limechat)) <kbd>macOS</kbd>
+- <a href="https://hexchat.github.io"><img src="assets/Hexchat.png" alt="Hexchat logo" valign="middle" width="24" height="24"></a> **[HexChat](https://hexchat.github.io)** - Based on XChat, easy to use, spell check & multiple languages. ([source](https://github.com/hexchat/hexchat)) <kbd>Windows</kbd> <kbd>macOS</kbd> <kbd>Linux</kbd>
+- <a href="https://github.com/jorgenschaefer/circe"><img src="assets/Circe.png" alt="Circe logo" valign="middle" width="24" height="24"></a> **[Circe](https://github.com/jorgenschaefer/circe)** - For use in Emacs, sane defaults. ([source](https://github.com/jorgenschaefer/circe)) <kbd>Emacs</kbd>
+- <a href="https://smuxi.im/"><img src="assets/Smuxi.png" alt="Smuxi logo" valign="middle" width="24" height="24"></a> **[Smuxi](https://smuxi.im/)** - User-friendly, based on GNOME / GTK+. ([source](https://github.com/meebey/smuxi)) <kbd>Linux</kbd> <kbd>Windows</kbd> <kbd>macOS</kbd>
+- <a href="http://www.kvirc.net/"><img src="assets/KVIrc.png" alt="KVIrc logo" valign="middle" width="24" height="24"></a> **[KVIrc](http://www.kvirc.net/)** - Free, portable, based on Qt GUI toolkit. ([source](https://github.com/kvirc/KVIrc)) <kbd>Linux</kbd> <kbd>macOS</kbd> <kbd>Windows</kbd>
+- <a href="https://konversation.kde.org/"><img src="assets/Konversation.png" alt="Konversation logo" valign="middle" width="24" height="24"></a> **[Konversation](https://konversation.kde.org/)** - User-friendly KDE client built with the Qt5 toolkit. ([source](https://github.com/KDE/konversation)) <kbd>Linux</kbd>
+- <a href="https://tools.suckless.org/sic/"><img src="assets/SIC.png" alt="Simple IRC Client logo" valign="middle" width="24" height="24"></a> **[Simple IRC Client](https://tools.suckless.org/sic/)** - a terminal client from less than 250 lines of C code. ([source](https://git.suckless.org/sic/)) <kbd>Linux</kbd>
+- <a href="http://colloquy.info/"><img src="assets/Colloquy-macOS.png" alt="Colloquy desktop logo" valign="middle" width="24" height="24"></a> **[Colloquy](http://colloquy.info/)** - AppleScript-enabled client. ([source](http://colloquy.info/project/browser)) <kbd>macOS</kbd>
+- <a href="https://irssi.org/"><img src="assets/Irssi.png" alt="Irssi logo" valign="middle" width="24" height="24"></a> **[Irssi](https://irssi.org/)** - Terminal client, multi-protocol friendly for module authors; GPL-2.0. ([source](https://github.com/irssi/irssi)) <kbd>Linux</kbd> <kbd>macOS</kbd> <kbd>Cygwin</kbd> <kbd>BSD</kbd>
+- <a href="https://adiirc.com/"><img src="assets/AdiIRC.png" alt="AdiIRC logo" valign="middle" width="24" height="24"></a> **[AdiIRC](https://adiirc.com/)** - Setting the customizability standard for every aspect of the IRC experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) <kbd>Windows</kbd> <kbd>WINE</kbd>
+- <a href="https://github.com/brandly/Lax"><img src="assets/Lax.png" alt="Lax logo" valign="middle" width="24" height="24"></a> **[Lax](https://github.com/brandly/Lax)** - Sleek, FLOSS multi-server client built with Electron and React. ([source](https://github.com/brandly/Lax)) <kbd>macOS</kbd>
+
+#### Mobile
+
+- <a href="https://www.yaaic.org/"><img src="assets/Yaaic.png" alt="Yaaic logo" valign="middle" width="24" height="24"></a> **[Yaaic](https://www.yaaic.org/)** - Multi-server/channel support, SASL, smooth scrolling / swiping. ([source](https://github.com/pocmo/Yaaic)) <kbd>Android</kbd>
 - [![RevolutionIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56876444-4f065180-69fc-11e9-8200-b244b6a86e94.png) Revolution IRC](https://github.com/MCMrARM/revolution-irc) -
   Feature-full, actively maintained Android IRC client.
   ([source](https://github.com/MCMrARM/revolution-irc)) `Android`
-- [![AdiIRC-icon-24px](https://user-images.githubusercontent.com/15098724/56632956-0e2fc680-6611-11e9-949e-c79c21f465a0.png) AdiIRC](https://adiirc.com) -
-  Never has a client offered such granular settings for every aspect of the IRC
-  experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features),
-  [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots))
-  `Windows` `WINE`
 - [![IRCforAndroid-icon-24px](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) IRC for Android™](https://www.countercultured.net/android/)
-  Android/Chrome OS client for power users, with ZNC built-ins, notification
+  Client for power users with ZNC built-ins, notification
   logic, reliable DCC, keybinds for hardware keyboards, etc. `Android`
   `ChromeOS`
+- <a href="http://limechat.net/iphone/"><img src="assets/Limechat.png" alt="Limechat logo" valign="middle" width="24" height="24"></a> **[LimeChat](http://limechat.net/iphone/)** - Multitasking and SSL/SASL support, can keep multiple connections alive in background, generates notifications for watchlist terms (\$4.99). <kbd>iOS</kbd>
+- <a href="https://apps.apple.com/us/app/colloquy-irc-client/id302000478"><img src="assets/Colloquy-iOS.png" alt="Colloquy mobile logo" valign="middle" width="24" height="24"></a> **[Colloquy](https://apps.apple.com/us/app/colloquy-irc-client/id302000478)** - Full-featured client built on the Chat Core framework with iOS multitasking support (\$1.99). ([source](http://colloquy.info/project/browser/trunk/Mobile)) <kbd>iOS</kbd>
+
+#### Web
+
+- <a href="https://kiwiirc.com/"><img src="assets/KiwiIRC.png" alt="Kiwi IRC logo" valign="middle" width="24" height="24"></a> **[Kiwi IRC](https://kiwiirc.com/)** - Powerful modern IRC messenger for the web. ([source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) <kbd>Web</kbd>
+- <a href="https://flackr.github.io/circ/"><img src="assets/CIRC.png" alt="CIRC logo" valign="middle" width="24" height="24"></a> **[CIRC](https://flackr.github.io/circ/)** - Uses the chrome.sockets API to connect directly to IRC servers without a proxy. ([source](https://github.com/flackr/circ)) <kbd>Chrome</kbd>
+- [relay.js](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC
+  less intimidating and easier to use. ([demo](http://demo.relayjs.com)) `Web`
 
 _More? Clients that include bouncers are found [below](#bouncers)._
 
@@ -103,7 +74,7 @@ _More? Clients that include bouncers are found [below](#bouncers)._
 
 _Useful for disconnecting and reconnecting without losing the chat session._
 
-#### Hosted
+#### Third-party
 
 - [![IRCCloud-icon-24px](https://user-images.githubusercontent.com/15098724/56879253-ba581f80-6a0c-11e9-8f6b-8461c10ed149.png) IRCCloud](https://www.irccloud.com) -
   Group chat for teams, friends, and communities. stay connected, chat from
@@ -133,6 +104,7 @@ _Useful for disconnecting and reconnecting without losing the chat session._
 - [![weechat-icon-24px](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) WeeChat](https://weechat.org) -
   A fast, light and extensible chat client.
   ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
+- <a href="https://quassel-irc.org/"><img src="assets/Quassel.png" alt="Quassel logo" valign="middle" width="24" height="24"></a> **[Quassel](https://quassel-irc.org/)** - Hybrid design allows clients to attach & detach from a central core that stays permanently online. ([source](https://github.com/quassel/quassel)) <kbd>Linux</kbd> <kbd>macOS</kbd> <kbd>Windows</kbd>
 
 ### Daemons
 
