@@ -1,0 +1,15 @@
+---
+comments: true
+enabled: true
+ignore_labels:
+  - restyled-ignore
+pull_requests: true
+request_review: {RogueScholar}
+restylers:
+  - prettier-markdown:
+      arguments:
+        - '--prose-wrap'
+        - never
+  - "*"
+statuses: true
+...
