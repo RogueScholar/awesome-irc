@@ -1,8 +1,8 @@
 ---
 version: "1"
 rules:
-  - base: "master"
-    upstream: "davisonio:master"
+  - base: "main"
+    upstream: "davisonio:main"
     mergeMethod: "rebase"
     assignees:
       - RogueScholar
